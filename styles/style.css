@@ -164,6 +164,7 @@
   font-weight: 400;
   font-size: 18px;
   line-height: 23.4px;
+  margin-top: 20px;
 }
 
 .what-title {
@@ -173,11 +174,6 @@
 .how-title {
   margin-top: 50px;
 }
-
-.list-item {
-  margin-top: 20px;
-}
-
 
 .paragraph-text {
   font-family: IBM Plex Mono, sans-serif;
