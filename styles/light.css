@@ -15,3 +15,20 @@
  }
 }
 
+@media (prefers-color-scheme: light) {
+  :root {
+  --page-background-image: url(../images/cover-image-light.png);
+  --page-background-color: #FFF1F7;
+  --accent-color: #FF8DCB;
+  --huge-text-color: #FFC2E6;
+  --text-color-with-background: #353430;
+  --paragraph-text-color: #353430;
+  --button-color: #353430;
+  --button-hover: #ADA4A6;
+  --main-title-color: #353430;
+  --frame-decor-color: #353430;
+
+   .decorative-rec-text {
+     display: none;
+ }
+}
