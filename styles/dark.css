@@ -10,3 +10,7 @@
   --frame-decor-color: #FF0070;
   --main-title-color: #FF0070;
 }
+
+.theme-dark .decorative-rec-text {
+  display: inline-block;
+}

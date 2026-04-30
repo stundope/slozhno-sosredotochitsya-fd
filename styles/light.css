@@ -10,8 +10,8 @@
   --main-title-color: #353430;
   --frame-decor-color: #353430;
 
-   .decorative-rec-text {
-     display: none;
+    .decorative-rec-text {
+      display: none;
  }
 }
 
@@ -28,8 +28,7 @@
   --main-title-color: #353430;
   --frame-decor-color: #353430;
   }
-
-   .decorative-rec-text {
-     display: none;
+    .decorative-rec-text {
+      display: none;
  }
 }
